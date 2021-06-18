@@ -29,6 +29,12 @@
 [% PROCESS version_view os_versions => {
       versions => [
       {
+          os_name => 'Buster',
+          os_version => '10',
+          os_release => '2019-07-06',
+          perl_version => '5.28.1+patches',
+      },
+      {
           os_name => 'Stretch',
           os_version => '9',
           os_release => '2017-07-17',
