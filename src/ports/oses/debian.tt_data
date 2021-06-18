@@ -4,7 +4,7 @@
         name => 'Debian',
         url => 'http://www.debian.org/',
         kernel => 'linux',
-        information_last_verified => '2017-10-04',
+        information_last_verified => '2021-06-18',
     }
 %]
 
